@@ -30,6 +30,11 @@
 	</natures>
 	<linkedResources>
 		<link>
+			<name>img/jquery-3.6.0.min.js</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/WebContent/js/jquery-3.6.0.min.js</locationURI>
+		</link>
+		<link>
 			<name>WebContent/img/jquery-3.6.0.min.js</name>
 			<type>1</type>
 			<locationURI>PROJECT_LOC/WebContent/js/jquery-3.6.0.min.js</locationURI>
