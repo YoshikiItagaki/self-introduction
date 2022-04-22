@@ -1,0 +1,98 @@
+@charset "UTF-8";
+
+main{
+	position:absolute;
+	width:100%;
+	margin:-50% 10px auto auto;
+	color:#E0FFFF;
+
+}
+
+th{
+	margin-right:30%;
+
+}
+
+#home_profile{
+	margin:10px 80px auto 25%;
+}
+
+#bio_profile{
+	padding-left:30%;
+	width:30%;
+	margin:10px 80px 0 80px;
+}
+
+.slider{
+	position:absolute;
+	padding-left:20%;
+    margin-bottom: 15px;
+    margin-top:300px;
+
+}
+
+tr{
+	display:inline;
+}
+
+#pic_list{
+	margin-top:10%;
+}
+.slide{
+	height: 180px;
+    width:240px;
+}
+
+.slick-prev, .slick-next {
+  z-index: 1;
+}
+.slick-prev:before, .slick-next:before {
+  color: #000;
+}
+.slick-slide {
+  transition: all ease-in-out .3s;
+  opacity: .2;
+}
+.slick-active {
+  opacity: 1;
+}
+.slick-current {
+  opacity: 1;
+}
+.thumb {
+  margin: 20px 0 0;
+}
+.thumb .slick-slide {
+  cursor: pointer;
+}
+.thumb .slick-slide:hover {
+  opacity: .7;
+}
+
+#travel_profile{
+	margin: 10px 80px auto 25%;
+	padding-left:30;
+
+
+}
+
+.travel{
+	width:300px;
+	height:225px;
+
+}
+
+#picture{
+	margin:150px 150px 30% 30%;
+	text-align:center;
+}
+
+#prof{
+	list-style:none;
+	margin-left:35%;
+}
+
+li a{
+	color:#E0FFFF;
+
+}
